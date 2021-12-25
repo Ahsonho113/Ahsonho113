@@ -1,0 +1,7 @@
+echo "# Ahsonho113" >> README.md 
+git init 
+git add README.md 
+git commit -m "first commit" 
+git branch -M main 
+git remote add origin https://github.com/Ahsonho113/Ahsonho113.git
+ git push - xuất xứ chính của u
